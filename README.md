@@ -10,9 +10,19 @@
 
 1.0.0版本前的所有更新都优先替换素材 细节优化集中在1.0.0以后
 
-基于steam 2021.5.29下载的pak
+基于steam 2021.5.29下载的pak<hr>
 
 制作：羽月ちい字幕组
+
+程序：狐日泽
+
+美工：狐日泽
+
+翻译：
+
+README_JP：高橋はるき
+
+README_EN：狐日泽 Google MT<hr>
 
 羽月ちい：[twitter](https://twitter.com/uzukichii) / [bilibili](https://live.bilibili.com/22870039) / [youtube](https://www.youtube.com/channel/UCJxPldVojkxP1lQZuPskJtg)
 

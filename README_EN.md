@@ -12,9 +12,19 @@ Making yet released.
 
 All the updates before version 1.0.0 will give priority to replacing the material. The detail optimization is concentrated after version 1.0.0.
 
-Pak file download based on steam 2021.5.29.
+Pak file download based on steam 2021.5.29.<hr>
 
 producer：Uzuki Chii's subtitle group
+
+Code：狐日泽
+
+Art：狐日泽
+
+Translation：
+
+README_JP：高橋はるき
+
+README_EN：狐日泽 Google MT<hr>
 
 Uzuki Chii：[bilibili](https://live.bilibili.com/22870039) / [twitter](https://twitter.com/uzukichii) / [youtube](https://www.youtube.com/channel/UCJxPldVojkxP1lQZuPskJtg)
 
