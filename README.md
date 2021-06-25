@@ -1,4 +1,4 @@
-# Chii Vs Anti v0.0.1
+# Chii Vs Anti v0.0.3
 
 [英文/English](https://github.com/SHDocter/Chii-Vs-Anti/blob/main/README_EN.md)（Google MT）
 
@@ -7,6 +7,8 @@
 ## 关于项目
 
 制作中 暂未发布
+
+1.0.0版本前的所有更新都优先替换素材 细节优化集中在1.0.0以后
 
 基于steam 2021.5.29下载的pak
 
@@ -51,3 +53,6 @@ packing&unpaking.pak.with.PVZ.cn.exe -> pak打包解包器 仅支持中文 不�
  - 2021.6.25
      - add：土豆雷 
      - add：普通zombie
+     - add：向日葵
+     - modify：尝试修改图鉴文本
+     - delete：删除旧的缓存文件

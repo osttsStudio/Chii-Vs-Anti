@@ -1,4 +1,4 @@
-# Chii Vs Anti v0.0.1
+# Chii Vs Anti v0.0.3
 
 [中文/Chinese](https://github.com/SHDocter/Chii_Vs_Anti/README.md)
 
@@ -9,6 +9,8 @@ Translation based on Google MT.
 ## About the project
 
 Making yet released.
+
+All the updates before version 1.0.0 will give priority to replacing the material. The detail optimization is concentrated after version 1.0.0.
 
 Pak file download based on steam 2021.5.29.
 
@@ -53,3 +55,6 @@ Packaged into main.pak through the tool.
  - 2021.6.25
      - add：Potato mine
      - add：normal zombie
+     - add：sunflower
+     - modify：Try to modify the text of the Almanac
+     - delete：Delete old Cache files.
