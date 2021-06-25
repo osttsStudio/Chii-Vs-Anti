@@ -53,8 +53,13 @@ Packaged into main.pak through the tool.
 ## Update
 - main
  - 2021.6.25
-     - add：Potato mine
-     - add：normal zombie
-     - add：sunflower
-     - modify：Try to modify the text of the Almanac
-     - delete：Delete old Cache files.
+     - 0.0.3
+         - fix：zombie fair and head
+         - modify：Try to modify the text of the Almanac
+         - delete：Delete old Cache files.
+     - 0.0.2
+         - add：sunflower
+         - add：Potato mine
+     - 0.0.1
+         - add：normal zombie
+

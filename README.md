@@ -51,8 +51,13 @@ packing&unpaking.pak.with.PVZ.cn.exe -> pak打包解包器 仅支持中文 不�
 ## 更新日志
 - main
  - 2021.6.25
-     - add：土豆雷 
-     - add：普通zombie
-     - add：向日葵
-     - modify：尝试修改图鉴文本
-     - delete：删除旧的缓存文件
+     - 0.0.3
+         - fix：zombie头部和头发
+         - modify：尝试修改图鉴文本
+         - delete：删除旧的缓存文件
+     - 0.0.2
+         - add：向日葵
+         - add：土豆雷 
+     - 0.0.1
+         - add：普通zombie
+
