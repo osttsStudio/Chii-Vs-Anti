@@ -8,6 +8,8 @@ Translation based on Google MT.
 
 ## About the project
 
+Making yet released.
+
 Pak file download based on steam 2021.5.29.
 
 producer：Uzuki Chii's subtitle group
