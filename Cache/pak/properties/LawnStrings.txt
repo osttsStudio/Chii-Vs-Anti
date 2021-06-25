@@ -8,7 +8,7 @@ $
 {CURRENCY_SYMBOL}{AMOUNT}
 
 [PEASHOOTER]
-Peashooter
+羽月シューター
 
 [PEASHOOTER_TOOLTIP]
 Shoots peas at the enemy
@@ -415,7 +415,7 @@ Dog Zombie
 Propeller Zombie
 
 [PEASHOOTER_DESCRIPTION_HEADER]
-Peashooters are your first line of defense. They shoot peas at attacking zombies.
+羽月シューター are your first line of defense. They shoot peas at attacking zombies.
 
 [PEASHOOTER_DESCRIPTION]
 {SHORTLINE}
@@ -1109,7 +1109,7 @@ The Zomboni applies ice, steam and pressure to your plants.
 {KEYWORD}Toughness:{STAT} high {1350}
 {KEYWORD}Special:{STAT} crushes plants, leaves an ice trail
 {SHORTLINE}
-{FLAVOR}Not to be mistaken for a Zamboni� brand ice resurfacing machine.  Zamboni� and the image of the ice-resurfacing machine are registered trademarks of Frank J. Zamboni & Co., Inc., and "Zomboni" is used with permission.  For all your non-zombie-related ice resurfacing needs, visit www.zamboni.com!
+{FLAVOR}Not to be mistaken for a Zamboni� brand ice resurfacing machine.  Zamboni� and the image of the ice-resurfacing machine are registered trademarks of Frank J. Zamboni & Co., Inc., and "Zomboni" is used with permission.  For all your non-zombie-related ice resurfacing needs, visit www.zamboni.com!
 
 [ZOMBIE_BOBSLED_TEAM_DESCRIPTION_HEADER]
 These zombies appear in teams of four.
@@ -3578,7 +3578,7 @@ Music & Sound
 Steam Cloud Saving Active
 
 [STEAM_CLOUD_UPLOAD_MESSAGE]
-Steam Cloud save data is enabled so your saves will be stored in the cloud and will be accessible on any machine you log into. However this will overwrite any existing data you have on other machines. Hitting �Cancel� will disable Steam Cloud for this session.
+Steam Cloud save data is enabled so your saves will be stored in the cloud and will be accessible on any machine you log into. However this will overwrite any existing data you have on other machines. Hitting �Cancel� will disable Steam Cloud for this session.
 
 [STEAM_CLOUD_UPLOAD_OKAY_BUTTON]
 OKAY
@@ -3587,7 +3587,7 @@ OKAY
 CANCEL
 
 [STEAM_CLOUD_CONFLICT_MESSAGE]
-We have detected that you have a Steam Cloud save for this game as well as a save stored on this machine. Which save would you like to use? (Hitting �Cancel� will disable Steam Cloud for this session.)
+We have detected that you have a Steam Cloud save for this game as well as a save stored on this machine. Which save would you like to use? (Hitting �Cancel� will disable Steam Cloud for this session.)
 
 [STEAM_CLOUD_CONFLICT_LOCAL_BUTTON]
 LOCAL SAVE
