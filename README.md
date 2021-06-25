@@ -1,6 +1,6 @@
 # Chii Vs Anti v0.0.1
 
-[英文/English](https://github.com/SHDocter/Chii_Vs_Anti/README_EN.md)（Google MT）
+[英文/English](https://github.com/SHDocter/Chii-Vs-Anti/blob/main/README_EN.md)（Google MT）
 
 急需日语翻译！！！
 
