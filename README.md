@@ -1,6 +1,6 @@
 # Chii Vs Anti v0.0.3
 
-[英文/English](https://github.com/osttsStudio/Chii-Vs-Anti/blob/main/README_EN.md)（Google MT）[日语/日本語](https://github.com/osttsStudio/Chii-Vs-Anti/blob/main/README_JP.md)
+[English](https://github.com/osttsStudio/Chii-Vs-Anti/blob/main/README_EN.md)（Google MT）[日本語](https://github.com/osttsStudio/Chii-Vs-Anti/blob/main/README_JP.md)
 
 急需日语翻译！！！
 
