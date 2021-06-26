@@ -1,6 +1,6 @@
 # Chii Vs Anti v0.0.3
 
-[中文/Chinese](https://github.com/osttsStudio/Chii-Vs-Anti/README.md)
+[Chinese](https://github.com/osttsStudio/Chii-Vs-Anti/README.md)
 
 Urgent need for Japanese translation!!!
 
